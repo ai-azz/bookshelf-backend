@@ -5,15 +5,24 @@ This project serves as a learning platform for implementing backend development 
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [Project Structure](#project-structure)
-4. [API Endpoints](#api-endpoints)
-5. [Installation & Setup](#installation--setup)
-6. [Testing the API](#testing-the-api)
-7. [Conclusion](#conclusion)
+1. [Features](#🚀-features)
+2. [Technologies Used](#🛠️-technologies-used)
+3. [Project Structure](#🗂️-project-structure)
+4. [API Endpoints](#📖-api-endpoints)
+   - [Add a Book](#1-add-a-book)
+   - [View All Books](#2-view-all-books)
+   - [View a Book by ID](#3-view-a-book-by-id)
+   - [Edit a Book by ID](#4-edit-a-book-by-id)
+   - [Delete a Book by ID](#5-delete-a-book-by-id)
+5. [Installation & Setup](#📋-installation-and-setup)
+   - [Prerequisites](#prerequisites)
+   - [Steps](#steps)
+6. [Testing the API](#🧪-testing-the-api)
+   - [Using Postman](#using-postman)
+   - [Using cURL](#using-curl)
+7. [Conclusion](#🏁-conclusion)
 
-## 🚀 Features 
+## 🚀 Features
 
 - **Add Books**: Create new book entries with details like title, author, year, and summary.
 - **View All Books**: Retrieve a list of all books with minimal information.
@@ -184,7 +193,7 @@ bookshelf-backend/
         
     - Failure: `404` if book not found.
 
-## 📋 Installation & Setup
+## 📋 Installation And Setup
 
 ### Prerequisites
 

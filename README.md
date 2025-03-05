@@ -3,25 +3,6 @@
 Welcome to the **Bookshelf API**! This is a RESTful API built with Hapi.js that allows users to manage a virtual bookshelf. Users can add, retrieve, update, and delete book entries for managing personal or shared book collections. 
 This project serves as a learning platform for implementing backend development concepts. The API provides functionalities to manage a bookshelf application, including adding, editing, deleting, and retrieving books.
 
-## Table of Contents
-
-1. [Features](#🚀-features)
-2. [Technologies Used](#🛠️-technologies-used)
-3. [Project Structure](#🗂️-project-structure)
-4. [API Endpoints](#📖-api-endpoints)
-   - [Add a Book](#1-add-a-book)
-   - [View All Books](#2-view-all-books)
-   - [View a Book by ID](#3-view-a-book-by-id)
-   - [Edit a Book by ID](#4-edit-a-book-by-id)
-   - [Delete a Book by ID](#5-delete-a-book-by-id)
-5. [Installation & Setup](#📋-installation-and-setup)
-   - [Prerequisites](#prerequisites)
-   - [Steps](#steps)
-6. [Testing the API](#🧪-testing-the-api)
-   - [Using Postman](#using-postman)
-   - [Using cURL](#using-curl)
-7. [Conclusion](#🏁-conclusion)
-
 ## 🚀 Features
 
 - **Add Books**: Create new book entries with details like title, author, year, and summary.
@@ -355,6 +336,6 @@ Use tools like **Postman** (a user-friendly API client) or **cURL** (a command-l
 
 The **Bookshelf API** is a robust and flexible backend application for managing virtual bookshelves. It provides a comprehensive learning platform for implementing RESTful APIs with Hapi.js. By following the provided documentation, users can easily set up, test, and customize the API for personal or shared book collections.
 
-Feel free to explore, modify, and contribute to this project. For licensing details, please refer to the [LICENSE](./LICENSE) file.
+Feel free to explore, modify, and contribute to this project. For licensing details, please refer to the [LICENSE](https://github.com/ai-azz/bookshelf-backend?tab=MIT-1-ov-file) file.
 
 Happy coding! 🎉
